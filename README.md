@@ -8,6 +8,6 @@ this is a test.
 
 :house:
 
-[ ] task1
-[x] task2
-[ ] task3
+- [ ] task1
+- [x] task2
+- [ ] task3
