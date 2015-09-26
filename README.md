@@ -7,3 +7,7 @@ this is a test.
 * comment
 
 :house:
+
+[ ] task1
+[x] task2
+[ ] task3
